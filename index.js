@@ -14,3 +14,10 @@ const divide = (a, b) => {
   return a / b;
 };
 
+const inc = (a) => {
+  return a += 1;
+}
+
+const dec = (a) => {
+  return a -= 1;
+}
